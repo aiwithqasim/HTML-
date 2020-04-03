@@ -1,0 +1,14 @@
+Let’s review what you’ve learned so far:
+
+1.HTML stands for HyperText Markup Language and is used to create the structure and content of a webpage.
+2.Most HTML elements contain opening and closing tags with raw text or other HTML tags between them.
+3.HTML elements can be nested inside other elements. The enclosed element is the child of the enclosing parent element.
+4.Any visible content should be placed within the opening and closing <body> tags.
+5.Headings and sub-headings, <h1> to <h6> tags, are used to enlarge text.
+6.<p>, <span>( for short text) and <div> (to make code look Nice) tags specify text or blocks.
+7.The <em> and <strong> tags are used to emphasize text.
+8.Line breaks are created with the <br> tag.
+9.Ordered lists (<ol>) are numbered and unordered lists (<ul>) are bulleted and inside both we use list itme <li> to wirte itmes.
+10.Images (<img>) and videos (<video>) can be added by linking to an existing source.
+  for images <img scr = "ImageLink.extension"/> (Note : image is self closing tag)
+  for videos <videos scr = "VideoLink.extension" width = "320" height = "240" controls >Viode not supported </video>
