@@ -1,0 +1,2 @@
+In this i had learned about "reuired" Attribute in form form to tell that this testfield is not optional
+secondaly i had learned about how to set min and max length . 

@@ -1,0 +1,2 @@
+Sign up form how to set minlength and maxlength.
+
